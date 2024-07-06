@@ -1,10 +1,3 @@
----
-title: "Steganography Implementation in Java"
-description: "Implementation of steganography methods in Java..."
-publishDate: "14 Jul 2021"
-updatedDate: "13 Jul 2021"
-tags: ["Java", "Steganography", "Data Hiding"]
----
 The purpose of this project is to implement steganography techniques in Java, allowing for the hiding of data within images.
 
 ### Project Benefits
